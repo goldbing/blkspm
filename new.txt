@@ -4,4 +4,4 @@ is time to eat.
 is time to lunch.
 hello.
 I want to eat food.
-make change.
+make some changes.
